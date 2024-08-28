@@ -32,7 +32,7 @@ User Role: Registered users can book tickets for available events.
 Payments: All transactions are handled through Stripe for secure payment processing.
 
 # Demo
-https://github.com/user-attachments/assets/d47d4d27-751c-421e-808f-4a12c38adcbf
+![Fully Version video (1) (1) (1)](https://github.com/user-attachments/assets/0382203c-3b8f-4f48-984e-1d98c05bd903)
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
