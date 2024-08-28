@@ -31,7 +31,6 @@ Organizer Role: Organizers have the ability to create and manage events.
 User Role: Registered users can book tickets for available events.
 Payments: All transactions are handled through Stripe for secure payment processing.
 
-Uploading Fully Version video (1) (1) (1).mp4…
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
